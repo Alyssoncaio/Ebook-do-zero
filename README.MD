@@ -9,8 +9,7 @@
 
 
 
-# Projeto EBOOK "Mercado Sombrio: Seus
-Dados à Venda" Gerado por I.A.s
+# Projeto EBOOK "Mercado Sombrio: Seus Dados à Venda" Gerado por I.A.s
 
 
  > ℹ️ **NOTE:** Este é o repositório desenvolvido durante o Bootcamp "Caixa IA Generativa com Microsoft Copilot", no qual fui aluno na plataforma da [DIO](https://dio.me)
