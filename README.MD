@@ -1,5 +1,5 @@
 <p align="center">
-    <img width="100" src="assets/Leonardo.jpg">
+    <img width="300" src="assets/Leonardo.jpg">
 </p>
 
 
@@ -9,8 +9,7 @@
 
 
 <p align="center">
-<img 
-    src="assets/espionando.jpg"
+<img src="assets/espionando.jpeg"
     width="400"  
 />
 </p>
