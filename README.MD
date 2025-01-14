@@ -22,7 +22,7 @@ seguem abaixo.
 ## 💻 Tecnologias utilizadas no projeto
 
 - [ChatGPT](https://chat.openai.com/) 
-- [Leonardo A.i.](https://leonardo.ai//) (Foi indicado utilizar a ferramenta "Midjourney", porém atualmente 2024/2025 a mesma é paga.)
+- [Leonardo A.i.](https://leonardo.ai//)  Foi indicado utilizar a ferramenta "Midjourney", porém atualmente 2024/2025 a mesma é paga.
 - [PowerPoint](https://www.microsoft.com/en/microsoft-365/powerpoint)
 
 ## 🧠 Prompts
