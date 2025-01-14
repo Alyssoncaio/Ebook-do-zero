@@ -33,11 +33,7 @@ ChatGPT：
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 |  título  | Crie um título de um ebook sobre um tema da dark web, o ebook é do nicho de hacker e subnicho  do comércio de dados pessoais, o título deve ser assustador e curto e tenha uma temática de segurança, me liste 05 variações de titulos                                                        |
-| conteúdo | Faça um texto para ebook, com foco da dark web e o comércio de dados pessoais {REGRAS}
->Explique sempre de maneira simples
->Deixe o texto enxuto
->Sempre traga exemplos de cuidados em contexto reais
->Sempre deixe um título sugestivo por tópico |
+| conteúdo | Faça um texto para ebook, com foco da dark web e o comércio de dados pessoais {REGRAS} >Explique sempre de maneira simples >Deixe o texto enxuto >Sempre traga exemplos de cuidados em contexto reais >Sempre deixe um título sugestivo por tópico |
 
 
 Midjourney：
