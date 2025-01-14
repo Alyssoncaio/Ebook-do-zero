@@ -10,7 +10,7 @@
 
 <p align="center">
 <img 
-    src="./assets/espionando.jpg"
+    src="assets/espionando.jpg"
     width="400"  
 />
 </p>
