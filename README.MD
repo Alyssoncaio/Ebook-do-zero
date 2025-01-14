@@ -44,17 +44,20 @@ Leonardo：
 
 
 <br>
+
 ## ✨ Features
 
 - Conteúdo gerado via ChatGPT
 - Imagens geradas via Leonardo A.I.
 
 <br>
+
 ## 📚 Materiais
 
 - Imagens utilizadas em `assets`
 - ebook gerado durante as aulas em `output`
 <br>
+
 ## 👨‍💻 Expert
 
 <p>
