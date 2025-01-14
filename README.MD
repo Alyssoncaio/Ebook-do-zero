@@ -42,17 +42,18 @@ Leonardo：
 | :----: | -------------------------------------------------------------------------------------- |
 | título | A hooded figure, known as a hacker, is rummaging through a user's personal information on a website in a dim, eerie, and atmospheric crepuscular environment. |
 <br/><br/>
+
 ## ✨ Features
 
 - Conteúdo gerado via ChatGPT
 - Imagens geradas via Leonardo A.I.
 <br/><br/>
+
 ## 📚 Materiais
 
 - Imagens utilizadas em `assets`
 - ebook gerado durante as aulas em `output`
 
-<br/><br/>
 ## 👨‍💻 Expert
 
 <p>
