@@ -48,7 +48,7 @@ Leonardo：
 - Conteúdo gerado via ChatGPT
 - Imagens geradas via Leonardo A.I.
 <br/><br/>
-<br/><br/>
+<br/>
 ## 📚 Materiais
 
 - Imagens utilizadas em `assets`
