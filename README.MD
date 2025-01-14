@@ -13,7 +13,7 @@
 
 
  > ℹ️ **NOTE:** Este é o repositório desenvolvido durante o Bootcamp "Caixa IA Generativa com Microsoft Copilot", no qual fui aluno na plataforma da [DIO](https://dio.me)
-
+<br/><br/>
 Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. todos os prompts
 seguem abaixo.
 
