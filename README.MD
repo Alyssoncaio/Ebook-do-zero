@@ -18,7 +18,7 @@ Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramen
 seguem abaixo.
 <br/><br/>
 <a href="https://github.com/Alyssoncaio/Ebook-do-zero/blob/main/Output/Ebook_Dark_Web.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
-
+<br/><br/>
 ## 💻 Tecnologias utilizadas no projeto
 
 - [ChatGPT](https://chat.openai.com/) 
