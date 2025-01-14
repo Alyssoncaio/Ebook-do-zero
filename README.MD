@@ -66,7 +66,10 @@ Leonardo：
     &nbsp&nbsp&nbsp
     <a href="https://github.com/Alyssoncaio">
     GitHub</a>&nbsp;|&nbsp;
-    &nbsp;|&nbsp;  
+    &nbsp; &nbsp;
+    &nbsp; &nbsp;</p>
+</p>
+<br/><br/>
 <br/><br/>
 <p>
 
