@@ -36,11 +36,11 @@ ChatGPT：
 | conteúdo | Faça um texto para ebook, com foco da dark web e o comércio de dados pessoais {REGRAS} >Explique sempre de maneira simples >Deixe o texto enxuto >Sempre traga exemplos de cuidados em contexto reais >Sempre deixe um título sugestivo por tópico |
 
 
-Midjourney：
+Leonardo：
 
 |  Ação  | prompt                                                                                 |
 | :----: | -------------------------------------------------------------------------------------- |
-| título | A jedi in meditation pose, with your blue lightsaber floating, pixel art style --v 5.1 |
+| título | A hooded figure, known as a hacker, is rummaging through a user's personal information on a website in a dim, eerie, and atmospheric crepuscular environment. |
 
 ## ✨ Features
 
