@@ -24,7 +24,7 @@ seguem abaixo.
 - [ChatGPT](https://chat.openai.com/) 
 - [Leonardo A.i.](https://leonardo.ai//)
 - [PowerPoint](https://www.microsoft.com/en/microsoft-365/powerpoint)
-
+<br/><br/>
 ## 🧠 Prompts
 
 
