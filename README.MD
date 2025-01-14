@@ -16,15 +16,15 @@
 <br/><br/>
 Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. todos os prompts
 seguem abaixo.
-<br/><br/>
+
 <a href="https://github.com/Alyssoncaio/Ebook-do-zero/blob/main/Output/Ebook_Dark_Web.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
-<br/><br/>
+
 ## 💻 Tecnologias utilizadas no projeto
 
 - [ChatGPT](https://chat.openai.com/) 
 - [Leonardo A.i.](https://leonardo.ai//)
 - [PowerPoint](https://www.microsoft.com/en/microsoft-365/powerpoint)
-<br/><br/>
+
 ## 🧠 Prompts
 
 
@@ -54,9 +54,7 @@ Leonardo：
 
 - Imagens utilizadas em `assets`
 - ebook gerado durante as aulas em `output`
-
-
-
+<br>
 ## 👨‍💻 Expert
 
 <p>
