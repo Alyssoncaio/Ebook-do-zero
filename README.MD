@@ -22,7 +22,7 @@ seguem abaixo.
 ## 💻 Tecnologias utilizadas no projeto
 
 - [ChatGPT](https://chat.openai.com/) 
-- [Leonardo IA](https://leonardo.ai//)
+- [Leonardo A.i.](https://leonardo.ai//)
 - [PowerPoint](https://www.microsoft.com/en/microsoft-365/powerpoint)
 
 ## 🧠 Prompts
@@ -45,16 +45,13 @@ Leonardo：
 ## ✨ Features
 
 - Conteúdo gerado via ChatGPT
-- Imagens geradas via MidJourney
+- Imagens geradas via Leonardo A.I.
 
 ## 📚 Materiais
 
 - Imagens utilizadas em `assets`
 - ebook gerado durante as aulas em `output`
 
-## 🛠️ Instruções de execução
-
-Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e utilize uma ferramenta de edição de documentos como power point, libreoffice , indesign para diagramação.
 
 ## 👨‍💻 Expert
 
