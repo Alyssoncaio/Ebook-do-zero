@@ -64,11 +64,9 @@ Leonardo：
     />
     <p>&nbsp&nbsp&nbspAlysson Caio<br>
     &nbsp&nbsp&nbsp
-    <a href="https://github.com/felipeAguiarCode">
+    <a href="https://github.com/Alyssoncaio">
     GitHub</a>&nbsp;|&nbsp;
-    <a href="www.linkedin.com/in/
-felipe-exe">LinkedIn</a>
-&nbsp;|&nbsp;
+    &nbsp;|&nbsp;
     <a href="https://www.instagram.com/felipeaguiar.exe/">
     Instagram</a>
 &nbsp;|&nbsp;</p>
