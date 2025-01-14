@@ -67,8 +67,7 @@ Leonardo：
     <a href="https://github.com/Alyssoncaio">
     GitHub</a>&nbsp;|&nbsp;
     &nbsp;|&nbsp;
-    <a href="https://www.instagram.com/felipeaguiar.exe/">
-    Instagram</a>
+    
 &nbsp;|&nbsp;</p>
 </p>
 <br/><br/>
